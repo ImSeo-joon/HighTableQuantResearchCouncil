@@ -1,0 +1,28 @@
+{
+  "name": "High Table Quantitative Finance Research Council",
+  "short_name": "High Table",
+  "description": "金融業界全体を対象とするリサーチ、公募・国際コンペティション、企業分析、応募から内定までのキャリア支援。",
+  "lang": "ja",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#03101f",
+  "theme_color": "#07172f",
+  "categories": ["education", "finance", "business"],
+  "icons": [
+    {
+      "src": "assets/img/logo-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/img/logo-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
